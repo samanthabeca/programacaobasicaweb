@@ -1,0 +1,20 @@
+/* Estilos CSS */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #3D3D3D;
+    background-color: #E1EDF2;
+}
+
+h2 {
+    border-bottom:#3D3D3D solid 1px;
+}
+
+figure {
+    text-align: center;
+    background-color: whitesmoke;
+    color: lightgrey;
+}
