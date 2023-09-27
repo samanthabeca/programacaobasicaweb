@@ -8,9 +8,9 @@ h1 {
     color: #3D3D3D;
     background-color: #E1EDF2;
     padding: 10px;
-    /* padding-left: 30px;
+    padding-left: 30px;
     padding-top: 10px;
-    padding-bottom: 10px; */
+    padding-bottom: 10px;
 }
 
 h2 {
@@ -26,6 +26,23 @@ figure {
     margin-top: 30px; /* Afasta a figura da caixa anterior */
     margin-bottom: 30px; /* Afasta a figura da caixa posterior */
 }
+
+figure img {
+    max-width: 100%; /* Define a largura máxima como 100% do espaço disponível */
+}
+  
+
+.matriz-musicdot{
+    width: 550px;
+    margin: 0 auto; /* Serve para centralizar o conteúdo na página */ 
+}
+
+.familia-tupfeln{
+    width: 275px; /* Define a largura desejada */
+    float: right; /* Alinha à direita */
+
+}
+
 
 .container{
     width: 940px;
