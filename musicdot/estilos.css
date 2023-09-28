@@ -4,7 +4,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-h1 {
+.titulo {
     color: #3D3D3D;
     background-color: #E1EDF2;
     padding: 10px;
@@ -40,7 +40,6 @@ figure img {
 .familia-tupfeln{
     width: 275px; /* Define a largura desejada */
     float: right; /* Alinha à direita */
-
 }
 
 
