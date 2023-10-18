@@ -70,3 +70,30 @@ div ul.telefones {
 div ul.telefones li {
     list-style-type: none; 
 }
+
+div ul.contato {
+    list-style-type: none;
+    padding: 10px; 
+}
+
+div ul.contato li {
+    padding: 10px; 
+}
+
+div input {
+    width: 500px;
+    height: 30px;
+}
+
+input[type=submit]{
+    background-color: #FFF;
+    color: #000;
+    width: 100px;
+    height: 50px;
+    font-weight: bold;
+}
+
+div textarea {
+    width: 500px;
+    height: 300px;
+}
