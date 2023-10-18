@@ -11,6 +11,7 @@ body {
     padding-left: 30px;
     padding-top: 10px;
     padding-bottom: 10px;
+    font-weight: bolder;
 }
 
 h2 {
@@ -50,4 +51,22 @@ figure img {
 
 .legenda {
     padding: 10px;
+}
+
+
+div ul.correspondencia {
+    width: 40%;
+}
+
+div ul.correspondencia li {
+    list-style-type: none; 
+    font-style: italic;
+}
+
+div ul.telefones {
+    width: 40%;
+}
+
+div ul.telefones li {
+    list-style-type: none; 
 }
