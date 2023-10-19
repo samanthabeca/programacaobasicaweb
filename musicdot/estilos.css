@@ -73,11 +73,47 @@ div ul.telefones li {
 
 div ul.contato {
     list-style-type: none;
-    padding: 10px; 
+    padding: 0px; 
 }
 
 div ul.contato li {
-    padding: 10px; 
+    padding: 0px; 
+}
+
+div ul.contato li.nome {
+    padding-left: 10px;     
+    color: #3D3D3D;
+}
+
+div ul.contato li.fone {
+    padding-left: 10px;
+    padding-top: 15px;     
+    color: #3D3D3D;
+}
+
+div ul.contato li.email {
+    padding-left: 10px;
+    padding-top: 15px;
+    color: #3D3D3D;
+}
+
+div ul.contato li.geral {
+    padding-left: 10px; 
+}
+
+div ul.contato li.mensagem {
+    padding-left: 10px;
+    padding-top: 30px; 
+}
+
+div ul.contato li.botao_enviar {
+    padding-left: 10px;
+    padding-top: 30px; 
+}
+
+div ul.contato li.campos_obrigatorios{
+    padding-left: 12px;
+    font-size: 10px;
 }
 
 div input {
